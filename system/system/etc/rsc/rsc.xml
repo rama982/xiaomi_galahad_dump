@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<runtime_switchable_config type="final" version="1">
+	<magic>0x5253434D</magic>
+	<part_info>
+		<name>para</name>
+		<offset>0x50000</offset>
+	</part_info>
+	<proj_info>
+		<proj_item index="0">
+			<name>default</name>
+			<operator>KIT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>lancelotcn</name>
+			<operator>KIT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>lancelotin</name>
+			<operator>KIT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>lancelotgl</name>
+			<operator>KIT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>galahad</name>
+			<operator>KIT</operator>
+		</proj_item>
+	</proj_info>
+</runtime_switchable_config>
